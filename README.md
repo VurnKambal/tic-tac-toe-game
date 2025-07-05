@@ -15,7 +15,7 @@ An interactive space-themed Tic-tac-toe game built with Next.js, featuring rocke
 
 ## Live Demo
 
-Try the game at: [Space Battle Tic-Tac-Toe](https://tic-tac-toe-game-k76lcknyx-vurnkambals-projects.vercel.app)
+Try the game at: [Space Battle Tic-Tac-Toe](https://tic-tac-toe-game-taupe-alpha.vercel.app/)
 
 ## Getting Started
 
