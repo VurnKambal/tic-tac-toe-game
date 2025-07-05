@@ -62,7 +62,3 @@ The game is built with modern web technologies and follows best practices:
 ## Deploy on Vercel
 
 The easiest way to deploy your game is to use the [Vercel Platform](https://vercel.com/new).
-
-## License
-
-MIT
